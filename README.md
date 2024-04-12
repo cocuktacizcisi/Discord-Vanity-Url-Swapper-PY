@@ -1,6 +1,6 @@
 # Discord Vanity Swapper
 
-Bu Python betiği, Discord sunucularında davet bağlantılarını silmeyi ve sunucu URL'sini değiştirmeyi sağlar. Kullanıcıdan alınan yetkilendirme bilgileriyle bu işlemleri gerçekleştirir.
+Bu Python betiği, Discord sunucularında davet bağlantılarını silmeyi ve sunucu URL'sini değiştirmeyi sağlar.
 
 ## Kullanım
 
